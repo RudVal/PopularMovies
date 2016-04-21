@@ -2,4 +2,21 @@
     <string name="app_name">" Popular Movies "</string>
     <string name="action_settings">Settings</string>
     <string name="action_refresh" translatable="false">Refresh</string>
+
+    <string name="action_share">Share</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_detail">Detail Movie</string>
+
+    <!-- Strings for movies sort order label settings -->
+    <string name="pref_movies_label"> Movies sort order </string>
+    <string name="pref_movies_label_popular"> Most popular </string>
+    <string name="pref_movies_label_rated"> Top rated </string>
+
+    <!-- Strings for  sort order value settings -->
+    <string name="pref_movies_key" translatable="false"> movies </string>
+    <string name="pref_movies_popular" translatable="false"> popular </string>
+    <string name="pref_movies_rated" translatable="false"> top_rated </string>
+
+
 </resources>
